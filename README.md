@@ -11,8 +11,9 @@ Simple chat quality improvements
 
 ![image](https://github.com/user-attachments/assets/0212f624-bf6d-4e46-8a25-51fc5d3bee53)
 
-3. Ignore command reminder - Once clicked it will automatically copy the ignore command "/i" to your clipboard. If you want to stop ignoring someone just do "/u"
+3. Commands reminder - Once clicked it will send you an sytem message reminding you of existing commands.
 
-![image](https://github.com/user-attachments/assets/82cc9eee-2ec9-4018-b317-ad7f7cbc5092)
+![image](https://github.com/user-attachments/assets/01f32d96-8e2b-4dd8-a02c-446ca9d4ee66)
+
 
 
